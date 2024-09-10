@@ -1,3 +1,6 @@
+## NOTE: This is a copy of a UIUC project I (Nathaniel Dyer) worked on
+The original is here: https://github.com/nsunkad/wikispeedier
+
 # Wikispeedier: Speedier than Wikispeedia
 A project by Ethan Greenwald, Nathaniel Dyer, Ayush Garg, and Nitya Sunkad.
 UIUC CS 225 | Fall 2022.
